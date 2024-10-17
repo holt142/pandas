@@ -1,0 +1,164 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Dots&family=Oswald:wght@200..700&family=Protest+Strike&family=Sixtyfour+Convergence&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Dots&family=Oswald:wght@200..700&family=Protest+Strike&family=Ruge+Boogie&family=Sixtyfour+Convergence&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Protest+Strike&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Protest+Strike&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Pacifico&family=Protest+Strike&display=swap');
+*{
+    margin: 0;
+}
+.p {
+    height: 70PX;
+    width: 70px;
+    border-radius: 50%;
+}
+h1 {font-family: "Protest Strike", sans-serif;color: white; }
+.ul1 {
+    list-style-type: none;
+    color: antiquewhite;
+    display: flex;
+    flex-direction: row;
+    align-items:center ;
+    align-content: center;
+    justify-content: space-between ;
+    gap: 30PX;
+
+}
+.b1 {
+    height: 70px;
+    width: 110px;
+    border: 5px solid black;
+    font-family: "Protest Strike", sans-serif;
+    border-radius:20PX ;
+    background-color: cyan;
+    margin: 30px;
+
+}
+nav {
+    height: 16VH;
+    width: 100vw;
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    align-items:center ;
+    align-content: center;
+    justify-content: space-between ;
+    padding: 5px;
+    position: fixed;
+    top: 0;
+    
+
+}
+.div1 {
+    display: flex;
+    flex-direction: row;
+    align-items:center ;
+    align-content: center;
+    justify-content: space-between ;
+    gap: 30px;
+    
+}
+.p2{
+    gap: 20px;
+    display: flex;
+    flex-direction: column;
+}
+.tt {
+    height: 200PX;
+    width: 200px;
+    border-radius: 50%;
+
+}
+.img2 {
+    display: flex;
+    flex-direction: row;
+    align-items:center ;
+    align-content: center;
+    justify-content: space-between ;
+    margin: 200px;
+    gap: 50PX;
+}
+h2 {
+    font-family: "Protest Strike", sans-serif;
+    
+}
+.p33 {
+    margin: 20px;
+}
+.image1 {
+    height: 300px;
+    width: 400px;
+}
+.image2 {
+    height: 300px;
+    width: 350px;
+
+}
+.last {
+    display: flex;
+    flex-direction: row;
+    align-items:center ;
+    align-content: center;
+    justify-content: space-around ;
+
+}
+.last2 {
+    display: flex;
+    flex-direction: column;
+    align-items:center ;
+    align-content: center;
+    justify-content: space-around ;
+    margin: 100px;
+    gap: 10px;
+    
+}
+
+.last2 h2{
+    align-self: center;
+}
+label{
+    margin-right: 450px;
+}
+.bb{
+    width: 500PX;
+    height: 25px;
+}
+.bbb{
+    width: 500PX;
+    height: 100px;
+
+}
+.b2{
+    border: 1px solid blue;
+    border-radius: 25px;
+    width: 100px;
+    height: 40PX;
+    background-color: rgb(5, 247, 13);
+    font-family: "Pacifico", cursive  ;
+    margin-right: 410px;
+    cursor:pointer;
+    
+}
+.b2:hover{
+    border: 1px solid black;
+    border-radius: 25px;
+    width: 100px;
+    height: 40PX;
+    background-color: chartreuse;
+
+}
+footer{
+    height: 13VH;
+    width: 100vw;
+    background-color: black;
+    color: whitesmoke;
+    display: flex;
+     justify-content: center;
+     align-items: center;
+     font-family: "Lobster", sans-serif;
+     font-size: larger;
+}
+
+
+
+
+
